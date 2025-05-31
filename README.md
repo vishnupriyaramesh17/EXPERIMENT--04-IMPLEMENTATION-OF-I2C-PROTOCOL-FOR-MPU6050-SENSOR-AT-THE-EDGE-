@@ -1,11 +1,11 @@
- # EXPERIMENT-03-INTERFACING-DIGITAL-SENSOR-WITH-EDGE-DEVELOPMENT-BOARD-
+ # EXPERIMENT--04-IMPLEMENTATION OF I2C PROTOCOL FOR MPU6050 SENSOR AT THE EDGE
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### **NAME: VISHNUPRIYA R
+### **DEPARTMENT: CSE(IoT) 
+### **ROLL NO: 212222110054 
+### **DATE OF EXPERIMENT: 24/03/2025
 
 ---
 
@@ -122,6 +122,12 @@ Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
 Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ...
 ```
+![Screenshot 2025-03-10 111408](https://github.com/user-attachments/assets/e5037126-adf4-4f1b-b180-a5b7ca75981b)
+
+![Screenshot 2025-03-10 111437](https://github.com/user-attachments/assets/d6428655-0a7a-49f0-9c94-b7e6ba1c1884)
+
+![Screenshot 2025-03-10 111458](https://github.com/user-attachments/assets/fed17507-3bff-4c74-99ed-b44f28b5c928)
+
 ---
 
 ## **RESULT:**  
